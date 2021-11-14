@@ -81,6 +81,23 @@ body {
    width: 60;   
  }
 
+  .place_menu {
+    margin-right: auto;
+    max-width: 200px;
+  }
+.place_menu_item {
+  margin-top: 5%;
+  color: #198754;
+  border-color: #198754;
+  width: 200px;
+  }
+
+.place_photo{
+  max-width: 80%;
+}
+.place_photo_item {
+  padding: 2px;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -102,3 +119,4 @@ body {
     margin-top: 7rem;
   }
 }
+
